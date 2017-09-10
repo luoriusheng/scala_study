@@ -1,2 +1,1 @@
-# scala_study
-learning scala
+# 学习记录
